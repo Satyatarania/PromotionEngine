@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Satya\\Desktop\\SatyaProject\\PromotionEngine\\PromotionEngine.DataAccess\\PromotionEngine.DataAccess.csproj": {}
+    "C:\\Users\\Satya\\Desktop\\GitProject\\PromotionEngine\\PromotionEngine.DataAccess\\PromotionEngine.DataAccess.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Satya\\Desktop\\SatyaProject\\PromotionEngine\\PromotionEngine.DataAccess\\PromotionEngine.DataAccess.csproj": {
+    "C:\\Users\\Satya\\Desktop\\GitProject\\PromotionEngine\\PromotionEngine.DataAccess\\PromotionEngine.DataAccess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Satya\\Desktop\\SatyaProject\\PromotionEngine\\PromotionEngine.DataAccess\\PromotionEngine.DataAccess.csproj",
+        "projectUniqueName": "C:\\Users\\Satya\\Desktop\\GitProject\\PromotionEngine\\PromotionEngine.DataAccess\\PromotionEngine.DataAccess.csproj",
         "projectName": "PromotionEngine.DataAccess",
-        "projectPath": "C:\\Users\\Satya\\Desktop\\SatyaProject\\PromotionEngine\\PromotionEngine.DataAccess\\PromotionEngine.DataAccess.csproj",
+        "projectPath": "C:\\Users\\Satya\\Desktop\\GitProject\\PromotionEngine\\PromotionEngine.DataAccess\\PromotionEngine.DataAccess.csproj",
         "packagesPath": "C:\\Users\\Satya\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Satya\\Desktop\\SatyaProject\\PromotionEngine\\PromotionEngine.DataAccess\\obj\\",
+        "outputPath": "C:\\Users\\Satya\\Desktop\\GitProject\\PromotionEngine\\PromotionEngine.DataAccess\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",

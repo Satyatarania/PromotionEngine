@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Satya\\Desktop\\SatyaProject\\PromotionEngine\\PromotionEngine\\PromotionEngine.csproj",
+      "projectUniqueName": "C:\\Users\\Satya\\Desktop\\GitProject\\PromotionEngine\\PromotionEngine\\PromotionEngine.csproj",
       "projectName": "PromotionEngine",
-      "projectPath": "C:\\Users\\Satya\\Desktop\\SatyaProject\\PromotionEngine\\PromotionEngine\\PromotionEngine.csproj",
+      "projectPath": "C:\\Users\\Satya\\Desktop\\GitProject\\PromotionEngine\\PromotionEngine\\PromotionEngine.csproj",
       "packagesPath": "C:\\Users\\Satya\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Satya\\Desktop\\SatyaProject\\PromotionEngine\\PromotionEngine\\obj\\",
+      "outputPath": "C:\\Users\\Satya\\Desktop\\GitProject\\PromotionEngine\\PromotionEngine\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",
