@@ -1,0 +1,11 @@
+C:\Users\Satya\Desktop\GitProject\PromotionEngine\PromotionEngine.Business\bin\Debug\netcoreapp3.1\PromotionEngine.Business.deps.json
+C:\Users\Satya\Desktop\GitProject\PromotionEngine\PromotionEngine.Business\bin\Debug\netcoreapp3.1\PromotionEngine.Business.dll
+C:\Users\Satya\Desktop\GitProject\PromotionEngine\PromotionEngine.Business\bin\Debug\netcoreapp3.1\PromotionEngine.Business.pdb
+C:\Users\Satya\Desktop\GitProject\PromotionEngine\PromotionEngine.Business\bin\Debug\netcoreapp3.1\PromotionEngine.DataAccess.dll
+C:\Users\Satya\Desktop\GitProject\PromotionEngine\PromotionEngine.Business\bin\Debug\netcoreapp3.1\PromotionEngine.DataAccess.pdb
+C:\Users\Satya\Desktop\GitProject\PromotionEngine\PromotionEngine.Business\obj\Debug\netcoreapp3.1\PromotionEngine.Business.csprojAssemblyReference.cache
+C:\Users\Satya\Desktop\GitProject\PromotionEngine\PromotionEngine.Business\obj\Debug\netcoreapp3.1\PromotionEngine.Business.AssemblyInfoInputs.cache
+C:\Users\Satya\Desktop\GitProject\PromotionEngine\PromotionEngine.Business\obj\Debug\netcoreapp3.1\PromotionEngine.Business.AssemblyInfo.cs
+C:\Users\Satya\Desktop\GitProject\PromotionEngine\PromotionEngine.Business\obj\Debug\netcoreapp3.1\PromotionEngine.Business.csproj.CopyComplete
+C:\Users\Satya\Desktop\GitProject\PromotionEngine\PromotionEngine.Business\obj\Debug\netcoreapp3.1\PromotionEngine.Business.dll
+C:\Users\Satya\Desktop\GitProject\PromotionEngine\PromotionEngine.Business\obj\Debug\netcoreapp3.1\PromotionEngine.Business.pdb
